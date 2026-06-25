@@ -32,7 +32,7 @@ For live hosting, upload all files to your web host maintaining the same folder 
 2. Hero — full-screen with animated rings
 3. Awards Strip — Yes Chef + TripAdvisor callouts
 4. Our Story — about Danny & Laura
-5. Menu Highlights — 9 signature dishes
+5. Full Menu — food, drinks, desserts and opening hours
 6. Photo Strip — 4-column image band
 7. The Experience — features list
 8. Guest Reviews — 6 real TripAdvisor quotes
@@ -49,5 +49,5 @@ For live hosting, upload all files to your web host maintaining the same folder 
 ## Notes
 
 - All images are loaded from Unsplash CDN. Replace `src` attributes with actual restaurant photos.
-- The menu PDF link points to the live bellabravarestaurant.com PDF — update if hosting your own copy.
+- The menu PDF is stored locally at `menu/bellabravamenu.pdf`; update that file when the restaurant menu changes.
 - Fully responsive down to mobile (~360px).
